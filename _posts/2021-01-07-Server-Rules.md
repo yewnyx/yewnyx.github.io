@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rust Server Rules
+title: Server Rules
 tags: [rust]
 excerpt_separator: <!--more-->
 ---

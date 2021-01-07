@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post-wipe Changes
+title: Changes Post-wipe
 tags: [rust]
 excerpt_separator: <!--more-->
 ---

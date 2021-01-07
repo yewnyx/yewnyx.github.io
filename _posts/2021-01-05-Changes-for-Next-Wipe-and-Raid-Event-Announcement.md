@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changes for Next Wipe and Raid Event Announcement
+title: Raid Event Announcement
 tags: [rust]
 ---
 
