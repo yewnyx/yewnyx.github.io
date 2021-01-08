@@ -8,9 +8,10 @@ excerpt_separator: <!--more-->
 
 * Have fun roleplaying. If you're going to be a sweaty gamer, RP it.
 * Don't be an asshole and don't metagame.
-* Your team can have 5 players in it. You can RP alliances or any kind of power relationship.
-* Your team can claim land. You can't claim monuments if you don't have complete control of the land surrounding it.
-* Your land, your rules.
+* Your team can:
+  * Have 5 players in it. 
+  * Build RP relationships or alliances with other teams.
+  * Negotiate claims to land with other teams (within limits).
 * Don't offline raid (1/2 of the team offline).
 * Fail RP is lame. Don't do that.
 
@@ -43,29 +44,16 @@ excerpt_separator: <!--more-->
 * Your team can declare a claim to land up to 100m away from your building(s).
 * If you develop small outposts, these do not contribute to your land claim unless you can make it work in RP.
 * Agree with other factions on your territory, or agree that it's disputed and work it out any way you like.
-  * Ideally, MSPaint on a screenshot of the map or something.
-  * If you built something but didn't update the map, the land is still free.
-* Monuments (named game areas) are not claimed unless surrounded (use your best judgment. Misunderstandings can be fun anyways).
-* Your land, your rules, your responsibility. Your team, or you (if solo), sets your rules. You get to enforce them, too.
-  * RP is always allowed. You can allow PVP or even KOS (kill-on-sight), but if you're going to be sweaty killers you're an easy target for people to RP a war against.
 
 # Roleplay and PVP
 
 * No offline raiding (1/2 or more of the other team offline). 
-* During a raid, each side are allowed to KOS.
+* During a raid, and only during a raid, each side are allowed to KOS.
 * Raids end when a side retreats, captures/destroys a Tool Cabinet, or both sides agree it's over.
 * Have a RP reason for your raids (be creative, for example politics/diplomacy, retaliation, territorial dispute).
-* If you repeatedly ignore other teams' rules, you're kind of throwing RP out the window. Lame. Don't do that.
-* Try to give people who are just starting a little bit of space, or put extra effort into your RP if you plan on confronting them as an enemy.
+* No KOS PVP except as defined above; RP first. If you're spoiling for a fight, escalate it first, and find a way to signal the beginning of PVP hostilities.
 
-## PVP/KOS Monuments:
-- Powerplant
-- Military Tunnel
-- Oil Rig
-- Trainyard
-- The Dome
+# Mutes in RP
 
-## PVP-if-you-RP-it Monuments:
-- Harbor
-- Junkyard
-- Everything else
+* Talkers: Give them a reasonable amount of time to type their replies.
+* Mutes: In turn expect to be given time to type things out, and let them know you're typing if it's taking a while. If someone just kills you without RP *they* failed. If you are afraid of not having time to respond to the RP situation, and you surprise them with a fight, you might have won a fight but killed the situation. Instead that's a fat -1 for you, dawg.
