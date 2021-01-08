@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 * Have fun roleplaying. If you're going to be a sweaty gamer, RP it.
 * Don't be an asshole and don't metagame.
 * Your team can have 5 players in it. You can RP alliances or any kind of power relationship.
-* Your team can claim land.
+* Your team can claim land. You can't claim monuments if you don't have complete control of the land surrounding it.
 * Your land, your rules.
 * Don't offline raid (1/2 of the team offline).
 * Fail RP is lame. Don't do that.
@@ -56,3 +56,16 @@ excerpt_separator: <!--more-->
 * Raids end when a side retreats, captures/destroys a Tool Cabinet, or both sides agree it's over.
 * Have a RP reason for your raids (be creative, for example politics/diplomacy, retaliation, territorial dispute).
 * If you repeatedly ignore other teams' rules, you're kind of throwing RP out the window. Lame. Don't do that.
+* Try to give people who are just starting a little bit of space, or put extra effort into your RP if you plan on confronting them as an enemy.
+
+## PVP/KOS Monuments:
+- Powerplant
+- Military Tunnel
+- Oil Rig
+- Trainyard
+- The Dome
+
+## PVP-if-you-RP-it Monuments:
+- Harbor
+- Junkyard
+- Everything else
