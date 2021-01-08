@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [IMPORTANT] Server Rules
+title: "[IMPORTANT] Server Rules"
 tags: [rust]
 excerpt_separator: <!--more-->
 ---
