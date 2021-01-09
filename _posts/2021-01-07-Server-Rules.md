@@ -8,10 +8,8 @@ excerpt_separator: <!--more-->
 
 * Have fun roleplaying. If you're going to be a sweaty gamer, RP it.
 * Don't be an asshole and don't metagame.
-* Your team can:
-  * Have 5 players in it. 
-  * Build RP relationships or alliances with other teams.
-  * Negotiate claims to land with other teams (within limits).
+* Your team can negotiate claims to land with other teams (within limits).
+* Please declare your team members to Yewnyx so they can be recorded.
 * Don't offline raid (1/2 of the team offline).
 * Fail RP is lame. Don't do that.
 
@@ -32,12 +30,6 @@ excerpt_separator: <!--more-->
   * If you enjoy watching another player's stream, and they are okay with this, you should wait at least 30 minutes to interact with them, and not use any knowledge you gained from that.
   * If conflict is unavoidable, consider taking the L and putting yourself at a disadvantage to them.
   * If you're raiding someone on Twitch, you'll see their gameplay. Be a good sport and don't take advantage of that.
-
-# Teams
-
-* Your team may have up to 5 players.
-* Please declare your team members to Yewnyx so they can be recorded.
-* Your team can ally with other teams.
 
 # Territory
 
