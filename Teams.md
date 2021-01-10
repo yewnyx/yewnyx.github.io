@@ -19,7 +19,8 @@ tags: [rust]
 ## Nonalust
 - Team Members:	Lust Harmony (captain), nonautologous
 
-## Raven
+## Mafia
+- Description: Extortion, protection taxation, underground markets, shady weapon sales, etc.
 - Team Members:	Raven (captain), Tokans, Kool
 
 ## Zager
