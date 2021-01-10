@@ -56,3 +56,12 @@ tags: [rust]
 
 * Talkers: Give them a reasonable amount of time to type their replies.
 * Mutes: In turn expect to be given time to type things out, and let them know you're typing if it's taking a while. If someone just kills you without RP *they* failed. If you are afraid of not having time to respond to the RP situation, and you surprise them with a fight, you might have won a fight but killed the situation. Instead that's a fat -1 for you, dawg.
+
+# Vouching
+
+From this point forward:
+1. I won't be approving non-lobby mutes.
+2. Any kicks going forward will prevent their voucher from vouching again.
+3. Two vouches will be needed for most vouches. I may make exceptions on a case-by-case basis.
+4. When I receive friend requests from unknown people I am likely to block them; I would appreciate asking first. If I find someone is blocked when whitelisting them I may reconsider the whitelist.
+5. This is an RP server - if they play excessively sweaty, or if they are noticeably not RP'ing, I will listen to complaints- and I am obligated to kick them if I receive enough complaints, even if misunderstandings led to that situation.
