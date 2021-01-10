@@ -13,7 +13,9 @@ author: Yewnyx
 
 # --- List of links in the navigation bar --- #
 
-#navbar-links:
+navbar-links:
+  Teams: "Teams"
+  Rules: "Rules"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
